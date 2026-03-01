@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hey👋 What's Up? </h1>
-<h3 align="center"> I'm Maiizo, A passionate Uni Student interested in Front-End Development</h3>
+<h3 align="center"> I'm Maiizo, A passionate Uni Student interested in Website Development</h3>
 <br><br>
 
 <div align="center">
@@ -11,8 +11,8 @@
 <br>
 
 <div align="center">
-  <a href="https://linkedin.com/in/eileen mark" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-        </div>
+  <a href="https://linkedin.com/in/eileen mark" target="blank">
+</div>
 <br/>
 
 <div align="center">
